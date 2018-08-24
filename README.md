@@ -1,2 +1,2 @@
 # thaiknow
-collection thaikowledge
+collection of Thai knowledge
